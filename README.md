@@ -1,5 +1,4 @@
 # dinosaur-game-bot
-# Dino Game Auto-Jumper
 
 An Arduino Mega 2560 project that plays Chrome's offline dinosaur game automatically. A photoresistor (LDR) taped to the screen detects incoming cacti, and a servo motor physically taps the spacebar to jump.
 
